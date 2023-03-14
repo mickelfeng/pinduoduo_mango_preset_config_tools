@@ -1,1 +1,3 @@
-"# pinduoduo_mango_preset_config_tools" 
+# pinduoduo_mango_preset_config_tools
+
+这个仓库存放的是mango配置文件的加密和解密工具， 文件加密功能请自写业务代码。
