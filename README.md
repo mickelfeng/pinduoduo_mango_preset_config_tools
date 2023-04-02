@@ -5,6 +5,11 @@
 文件：mango_preset_config/mango_config.json
 提取自apk安装包
 
+文件：mango_preset_config/mango_config_out.json
+为mango_preset_config/mango_config.json的解密输出
+
 文件：mango_preset_config/raw_config_data.json
 提取自 /data/data/com.xunmeng.pinduoduo/app_mango/raw_config_data.json
 
+文件：mango_preset_config/raw_config_data_out.json
+为mango_preset_config/raw_config_data.json的解密输出
